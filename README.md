@@ -2,7 +2,11 @@
 
 A convenient Android keyboard application that helps you quickly fill in login credentials while signing into websites or applications. The app allows you to store your usernames and passwords securely and access them through a custom keyboard interface for fast data entry.
 
+<img src="https://github.com/user-attachments/assets/3c9e6d1a-b213-4ef3-9829-667a7d4c520a" width="400">
+
 ## Features
+
+<img src="https://github.com/user-attachments/assets/64f62c88-2dca-422d-98d7-f1b01f500c13" width="400">
 
 - Custom keyboard for quick username and password entry
 - Secure storage of login credentials
@@ -59,10 +63,6 @@ git clone https://github.com/ammarptn/AccountFastTrack.git
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Add your license here]
 
 ## Privacy Policy
 
