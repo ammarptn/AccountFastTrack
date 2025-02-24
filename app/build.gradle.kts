@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "com.ammarptn.accountfasttrack"
+    namespace = "com.ammarptn.accountFastTrack"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.ammarptn.accountfasttrack"
+        applicationId = "com.ammarptn.accountFastTrack"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

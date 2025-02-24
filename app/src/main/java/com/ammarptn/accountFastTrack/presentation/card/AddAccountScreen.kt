@@ -30,9 +30,9 @@ import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.text.input.VisualTransformation
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
+import com.ammarptn.accountFastTrack.R
 import com.ammarptn.accountFastTrack.data.local.AccountEntity
 import com.ammarptn.accountFastTrack.presentation.AccountViewModel
-import com.ammarptn.accountfasttrack.R
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

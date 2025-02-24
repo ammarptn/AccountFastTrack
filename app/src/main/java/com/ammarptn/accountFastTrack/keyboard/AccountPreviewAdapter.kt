@@ -6,8 +6,8 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
+import com.ammarptn.accountFastTrack.R
 import com.ammarptn.accountFastTrack.data.local.AccountEntity
-import com.ammarptn.accountfasttrack.R
 
 class AccountPreviewAdapter : RecyclerView.Adapter<AccountPreviewAdapter.CardViewHolder>() {
 
